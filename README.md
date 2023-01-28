@@ -1,4 +1,4 @@
-# Feelin Gamesのラボサイト - lab.feelingames.com
+# Feelin Gamesのラボサイト
 Todo, Memoなどを公開
 
 ## Todo
